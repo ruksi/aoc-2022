@@ -2,7 +2,8 @@
 
 Advent of Code 2021 using [Deno](https://deno.land/) 🦕 runtime and TypeScript.
 
-Requires a fairly recent version of [Deno](https://deno.land/) 🤷
+Requires some version of [Deno](https://deno.land/); these were written with
+1.28.3.
 
 ```bash
 # solve individual challenges by day...
