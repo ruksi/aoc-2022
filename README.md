@@ -10,6 +10,7 @@ Requires some version of [Deno](https://deno.land/); these were written with
 deno run --allow-read=. day00/main.ts
 
 # run the tests; they check that all the challenges solve correctly
+# note that this might take a while... some hours for all of the them
 deno test --allow-read=.
 
 # to format all files, including Markdown
