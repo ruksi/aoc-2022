@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-Advent of Code 2021 using [Deno](https://deno.land/) 🦕 runtime and TypeScript.
+Advent of Code 2022 using [Deno](https://deno.land/) 🦕 runtime and TypeScript.
 
 Requires some version of [Deno](https://deno.land/); these were written with
 1.28.3.
